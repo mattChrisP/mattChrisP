@@ -76,17 +76,17 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mattChrisP&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ### Competitive Programming Profile
-<a href="https://leetcode.com/MattChris/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
-<a href="https://www.codechef.com/users/kaguyasama12">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://leetcode.com/MattChris/" target="_blank">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://www.codechef.com/users/kaguyasama12" target="_blank">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 
 ### Live Project
-[SpatialData](https://outbound-tan.vercel.app/)
+<a href="https://outbound-tan.vercel.app/" target="_blank">SpatialData</a>
 <br>
-[My Portfolio](https://my-portfolio-six-ochre.vercel.app/)
+<a href="https://my-portfolio-six-ochre.vercel.app/" target="_blank">My Portfolio</a>
 <br>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthewchristopherpohadi/)
+<a href="https://www.linkedin.com/in/matthewchristopherpohadi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br> <br>
 
