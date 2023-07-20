@@ -80,13 +80,13 @@
 <a href="https://www.codechef.com/users/kaguyasama12" target="_blank">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 
 ### Live Project
-<a href="https://outbound-tan.vercel.app/" target="_blank">SpatialData</a>
+<a href="https://outbound-tan.vercel.app/" target="_blank" rel="noreferrer">SpatialData</a>
 <br>
-<a href="https://my-portfolio-six-ochre.vercel.app/" target="_blank">My Portfolio</a>
+<a href="https://my-portfolio-mattchrisp.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a>
 <br>
 
 <h2>Connect with me!</h2>
  
-<a href="https://www.linkedin.com/in/matthewchristopherpohadi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matthewchristopherpohadi/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br> <br>
 
