@@ -71,7 +71,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 
-<a href="https://github.com/mattChrisP"><img alt="Matthew Christopher Pohadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mattChrisP&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/mattChrisP"><img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattChrisP&layout=compact&show_icon=true&theme=algolia" alt="mattChrisP top langs"/></a>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mattChrisP&theme=darcula&hide_border=true&background=FFFFFF00">
 
